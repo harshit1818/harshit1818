@@ -1,49 +1,37 @@
-# Hi, I'm Harshit Raj 👋
+# Harshit Raj 🚀
 
-🎓 3rd Year B.Tech in Electrical Engineering @ IIT Jodhpur  
-💻 Software Engineering Intern @ Rimo LLC, Japan  
-💡 Passionate about Full Stack Development, AI/ML & Backend Systems  
-🌐 Working with Golang, C++, Python, TypeScript, React, Firebase  
-⚽ Football Enthusiast | Varchas'24 Champion
+**Full Stack Developer | AI Engineer | Cloud Systems Architect**
 
----
-
-## 🛠 Tech Stack
-![Languages](https://skillicons.dev/icons?i=cpp,go,python,ts,react,html,css,nodejs,firebase,git,github,docker,vscode)
+B.Tech, Electrical Engineering @ IIT Jodhpur  
+Software Engineer @ Rimo LLC (Japan) - AI Voice Platform  
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 🚀 EasyExitHostel
-> Hostel gate management system | C++ | OOP-based project
-
-- Role-based authentication
-- Admin dashboard & student request tracking  
-- [View Repo](https://github.com/harshit1818/EASYEXITHOSTEL)
+![Languages](https://skillicons.dev/icons?i=go,cpp,python,ts,react,nodejs,firebase,mongodb,docker,git,github,vscode,gcp,postman,linux,html,css,tailwind)
 
 ---
 
-### 🧠 NLP Text Summarizer
-> Text summarization using Hugging Face Transformers + TensorFlow
+## 💼 Currently Working On
 
-- Supports long academic content
-- Extractive and abstractive techniques combined  
-- [View Repo](https://github.com/harshit1818/TextSummary)
-
----
-
-### 📈 Stock Trend Analyzer
-> Detects trendlines in stock charts like TradingView
-
-- Finds local maxima/minima to draw meaningful tunnels
-- Preprocessing & annotation pipeline for candlestick images  
-- [View Repo](https://github.com/harshit1818/StockPrices)
+- **Voice-AI Platforms**: Speech-to-text systems, meeting bots, real-time transcription workflows
+- **Full Stack Development**: Go microservices + React/TypeScript frontends with cloud deployment
+- **Workflow Automation**: Dynamic template engines, bot orchestration, calendar integrations
+- **Real-time Systems**: Instant meeting bot integration, Zoom webinar controls, TipTap rich text editors
+- **Browser Extensions**: LingoJP - Japanese→English translation tool for seamless browsing
 
 ---
 
-## 📫 Reach Me
+## 🌟 Exploring & Learning
 
-📧 harshitrajofficial@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/harshit1818)  
-🔗 [GitHub](https://github.com/harshit1818)
+- **System Architecture**: Distributed systems, event-driven architectures, microservices patterns
+- **DevOps Excellence**: Container orchestration, CI/CD automation, cloud-native scaling strategies
+- **Real-time Technologies**: WebRTC implementations, live streaming protocols, collaborative editing systems
+- **Advanced AI/ML**: NLP pipelines, transformer models, voice processing algorithms
+
+---
+
+## 📫 Connect  
+📧 harshitrajmain@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/harshit1818) | [GitHub](https://github.com/harshit1818)
