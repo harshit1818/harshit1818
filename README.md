@@ -11,7 +11,7 @@ Software Engineer Intern @ Rimo (Japan)
 - **AI-Powered Features at Rimo** — OpenAI function calling, knowledge-aware chat extensions, batch data loading systems
 - **Full Stack Development** — React/TypeScript frontends, Go/Python backends, Firestore optimization
 - **LingoJP** — Chrome extension for Japanese→English webpage translation
-- **Bachelor Thesis** — IoT-based healthcare monitoring using ML (achieved 98.8% accuracy with KNN)
+- **Bachelor Thesis** — IoT-based healthcare monitoring using ML 
 
 ---
 
