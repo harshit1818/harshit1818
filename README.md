@@ -1,28 +1,17 @@
 # Harshit Raj 🚀
 
-**Full Stack Developer | AI Engineer | Cloud Systems Architect**
-
-B.Tech, Electrical Engineering @ IIT Jodhpur  
-Software Engineer @ Rimo LLC (Japan) - AI Voice Platform  
+**Full Stack Developer | AI/ML Engineer**
+B.Tech, Electrical Engineering @ IIT Jodhpur
+Software Engineer Intern @ Rimo (Japan)
 
 ---
 
 ## 💼 Currently Working On
 
-- **Voice-AI Platforms**: Speech-to-text systems, meeting bots, real-time transcription workflows
-- **Full Stack Development**: Go microservices + React/TypeScript frontends with cloud deployment
-- **Workflow Automation**: Dynamic template engines, bot orchestration, calendar integrations
-- **Real-time Systems**: Instant meeting bot integration, Zoom webinar controls, TipTap rich text editors
-- **Browser Extensions**: LingoJP - Japanese→English translation tool for seamless browsing
-
----
-
-## 🌟 Exploring & Learning
-
-- **System Architecture**: Distributed systems, event-driven architectures, microservices patterns
-- **DevOps Excellence**: Container orchestration, CI/CD automation, cloud-native scaling strategies
-- **Real-time Technologies**: WebRTC implementations, live streaming protocols, collaborative editing systems
-- **Advanced AI/ML**: NLP pipelines, transformer models, voice processing algorithms
+- **AI-Powered Features at Rimo** — OpenAI function calling, knowledge-aware chat extensions, batch data loading systems
+- **Full Stack Development** — React/TypeScript frontends, Go/Python backends, Firestore optimization
+- **LingoJP** — Chrome extension for Japanese→English webpage translation
+- **Bachelor Thesis** — IoT-based healthcare monitoring using ML (achieved 98.8% accuracy with KNN)
 
 ---
 
