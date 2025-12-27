@@ -25,8 +25,4 @@ Software Engineer Intern @ Rimo (Japan)
 ---
 [![](https://visitcount.itsvg.in/api?id=harshit1818&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📫 Connect  
-📧 harshitrajmain@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/harshit1818) | [GitHub](https://github.com/harshit1818)
