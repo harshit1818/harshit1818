@@ -1,4 +1,4 @@
-# Harshit Raj 🚀
+# Harshit Raj 
 
 **Full Stack Developer | AI/ML Engineer**
 B.Tech, Electrical Engineering @ IIT Jodhpur
