@@ -1,7 +1,7 @@
 # Harshit Raj
 
 Software Engineer at Rimo 🇯🇵
-IIT Jodhpur (Electrical Engineering)
+IIT Jodhpur
 
 Building desktop systems, AI infrastructure, and distributed backends.
 
